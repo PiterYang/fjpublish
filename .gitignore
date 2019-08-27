@@ -5,5 +5,7 @@ dist
 sftp-config.json
 /sublime.sublime-project
 /sublime.sublime-workspace
-fjpublish.config.js
+# fjpublish.config.js
 example/webpack/dist
+vue
+*.gz
